@@ -1,0 +1,35 @@
+
+/* Box */
+#Box{
+    padding: 20px;
+    box-shadow: 0px 0px 5px 1px rgb(78, 78, 78);
+    width: 80%;
+    margin: 20px auto;
+}
+
+
+/* titleBox */
+.titleBox{
+    padding: 10px;
+}
+
+/* tableBox */
+.tableBox{
+
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+td, th {
+    border: 1px solid #636363;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(odd) {
+    background-color: #dddddd;
+}
